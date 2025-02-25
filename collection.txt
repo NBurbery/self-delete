@@ -130,7 +130,6 @@ Magikarp
 Gyarados
 Lapras
 Ditto
-Eevee
 Vaporeon
 Jolteon
 Flareon
