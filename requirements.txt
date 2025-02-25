@@ -1,4 +1,4 @@
-discord.py-self==2.0.0
+discord.py-self==2.0.1
 
 Flask>=2.0
 
