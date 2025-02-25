@@ -530,7 +530,6 @@ Archen
 Archeops
 Trubbish
 Garbodor
-Zorua
 Zoroark
 Minccino
 Cinccino
