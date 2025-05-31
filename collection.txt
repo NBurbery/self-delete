@@ -952,3 +952,96 @@ Partner Eevee
 Partner Pikachu
 Midday Lycanroc
 Farfetch'd
+Spiky-eared Pichu 
+Vanilla Cream Berry Sweet Alcremie
+Vanilla Cream Love Sweet Alcremie
+Vanilla Cream Star Sweet Alcremie
+Vanilla Cream Clover Sweet Alcremie
+Vanilla Cream Flower Sweet Alcremie
+Vanilla Cream Ribbon Sweet Alcremie
+Rotom Pokédex
+Rotom Phone
+Rotom Drone
+East Sea Shellos
+East Sea Gastrodon
+Drive Mode Miraidon
+Glide Mode Miraidon
+Sprinting Build Koraidon
+Gliding Build Koraidon
+Battle Cyclizar
+Ride Cyclizar
+Summer Sawsbuck
+Autumn Sawsbuck
+Winter Sawsbuck
+Summer Deerling
+Autumn Deerling
+Winter Deerling
+Yellow Flower Florges
+Orange Flower Florges
+Blue Flower Florges
+White Flower Florges
+Yellow Flower Floette
+Orange Flower Floette
+Blue Flower Floette
+White Flower Floette
+Yellow Flower Flabébé
+Orange Flower Flabébé
+Blue Flower Flabébé
+White Flower Flabébé
+Icy Snow Vivillon
+Polar Vivillon
+Tundra Vivillon
+Continental Vivillon
+Garden Vivillon
+Elegant Vivillon
+Modern Vivillon
+Marine Vivillon
+Archipelago Vivillon
+High Plain Vivillon
+Sandstorm Vivillon
+River Vivillon
+Monsoon Vivillon
+Savanna Vivillon
+Sun Vivillon
+Ocean Vivillon
+Jungle Vivillon
+Fancy Vivillon
+Poké Ball Vivillon
+Unown A
+Unown B
+Unown C
+Unown D
+Unown E
+Unown F
+Unown G
+Unown H
+Unown I
+Unown J
+Unown K
+Unown L
+Unown M
+Unown N
+Unown O
+Unown P
+Unown Q
+Unown R
+Unown S
+Unown T
+Unown U
+Unown V
+Unown W
+Unown X
+Unown Y
+Unown Z
+Unown Exclamation
+Unown Question
+Heart Trim Furfrou
+Star Trim Furfrou
+Diamond Trim Furfrou
+Debutante Trim Furfrou
+Matron Trim Furfrou
+Dandy Trim Furfrou
+La Reine Trim Furfrou
+Kabuki Trim Furfrou
+Pharaoh Trim Furfrou
+Sunshine Cherrim
