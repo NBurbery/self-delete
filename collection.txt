@@ -964,10 +964,6 @@ Rotom Phone
 Rotom Drone
 East Sea Shellos
 East Sea Gastrodon
-Drive Mode Miraidon
-Glide Mode Miraidon
-Sprinting Build Koraidon
-Gliding Build Koraidon
 Battle Cyclizar
 Ride Cyclizar
 Summer Sawsbuck
@@ -1045,3 +1041,21 @@ La Reine Trim Furfrou
 Kabuki Trim Furfrou
 Pharaoh Trim Furfrou
 Sunshine Cherrim
+Heart Trim Furfrou
+Star Trim Furfrou
+Diamond Trim Furfrou
+Debutante Trim Furfrou
+Matron Trim Furfrou
+Dandy Trim Furfrou
+La Reine Trim Furfrou
+Kabuki Trim Furfrou
+Pharaoh Trim Furfrou
+Red Core Minior
+Orange Core Minior
+Yellow Core Minior
+Green Core Minior
+Blue Core Minior
+Indigo Core Minior
+Violet Core Minior
+Sandy Burmy
+Trash Burmy
