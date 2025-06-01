@@ -128,3 +128,43 @@ Zygarde Core
 Zenith Marshadow
 Pirouette Meloetta
 Dada Zarude
+Neutral Xerneas
+High-speed Flight Configuration Genesect
+Bug Arceus
+Dark Arceus
+Dragon Arceus
+Electric Arceus
+Fighting Arceus
+Fire Arceus
+Flying Arceus
+Ghost Arceus
+Grass Arceus
+Ground Arceus
+Ice Arceus
+Poison Arceus
+Psychic Arceus
+Rock Arceus
+Steel Arceus
+Water Arceus
+Fairy Arceus
+Bug Silvally
+Dark Silvally
+Dragon Silvally
+Electric Silvally
+Fighting Silvally
+Fire Silvally
+Flying Silvally
+Ghost Silvally
+Grass Silvally
+Ground Silvally
+Ice Silvally
+Poison Silvally
+Psychic Silvally
+Rock Silvally
+Steel Silvally
+Water Silvally
+Fairy Silvally
+Drive Mode Miraidon
+Glide Mode Miraidon
+Sprinting Build Koraidon
+Gliding Build Koraidon
