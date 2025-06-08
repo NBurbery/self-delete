@@ -1007,34 +1007,34 @@ Pharaoh Trim Furfrou
 Sunshine Cherrim
 Sandy Burmy
 Trash Burmy
-venusaur
-charizard
-blastoise
-pikachu
-butterfree
-meowth
-machamp
-gengar
-kingler
-lapras
-snorlax
-garbodor
-rillaboom
-cinderace
-inteleon
-corviknight
-orbeetle
-drednaw
-coalossal 
-flapple
-appletun
-sandaconda
-amped toxtricity
-centiskorch
-hatterene
-grimmsnarl
-alcremie
-copperajah
-duraludon
-low key toxtricity
+Venusaur
+Charizard
+Blastoise
+Pikachu
+Butterfree
+Meowth
+Machamp
+Gengar
+Kingler
+Lapras
+Snorlax
+Garbodor
+Rillaboom
+Cinderace
+Inteleon
+Corviknight
+Orbeetle
+Drednaw
+Coalossal 
+Flapple
+Appletun
+Sandaconda
+Amped toxtricity
+Centiskorch
+Hatterene
+Grimmsnarl
+Alcremie
+Copperajah
+Duraludon
+Low key toxtricity
 Spiky-eared Pichu
