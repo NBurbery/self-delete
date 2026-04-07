@@ -1,7 +1,0 @@
-discord.py-self==2.0.1
-
-Flask>=2.0
-
-gunicorn>=20.0
-
-requests>=2.0
